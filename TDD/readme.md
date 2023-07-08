@@ -1,3 +1,4 @@
 # doctest
 python -m doctest -v main.py
-# pytest test.py
+# pytest
+pytest test.py
